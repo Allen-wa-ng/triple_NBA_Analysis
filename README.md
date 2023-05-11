@@ -51,10 +51,8 @@ This project is divided into the following five processes:
 ## Result
 
 Using this compound interest calculator can help me quickly calculate how much money I can save each year and month, and then see how much it can grow with compound interest. It is a convenient, simple and practical small system. The following two pictures show the starting screen and the calculation result screen.
-![Project Img1](/1.png)
-![Project Img1](/2.png)
-![Project Img1](/3.png)
-![Project Img1](/4.png)
+
+![Project Img1](/output.png)
 
 _For more examples, please refer to the [Official Website](https://www.tripletw.com)_
 
