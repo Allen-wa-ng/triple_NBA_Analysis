@@ -1,5 +1,5 @@
 # NBA Analysis
-![Project Img](/maxresdefault.jpg)
+![Project Img](/piterson18012020.jpg)
 
 I am a college student who started working part-time after entering college. Initially, I would spend the money I earned from work on things that I liked, but later on, I realized that as an adult, I needed to develop a habit of saving money. 
 
@@ -28,23 +28,23 @@ _This program does not require the installation of any software._
 This project is divided into the following five processes:
 * 1
   ```
-  Import package:Tkinter
+  Import package: pandas, matplotlib.pyplot, seaborn, warnings
   ```
 * 2
   ```
-  Screen initialization:Size, Global variables, Background color, Title...
+  Data Mining: NBA DATA(https://media.geeksforgeeks.org/wp-content/uploads/nba.csv)
   ```
 * 3
   ```
-  Draw Label, Button, Entry
+  Data Information: head(), describe(), info()
   ```
 * 4
   ```
-  Define Functions
+  Data Preprocessing: Missing value, Replace, Fillna, Dropna...
   ```
 * 5
   ```
-  All in one
+  Data Visualization: plot()
   ```
   
   
